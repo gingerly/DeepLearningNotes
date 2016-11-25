@@ -1,0 +1,3 @@
+Linear Model:
+
+Learn the weights (w): f(x,w) = sum(x_i, w_i)
