@@ -1,3 +1,24 @@
-Linear Model:
-
+Linear Models:
 Learn the weights (w): f(x,w) = sum(x_i, w_i)
+
+Stochastic Gradient used the weights of ADALINE:(Adaptive Linear Element).
+
+Linear Models cannot learn XOR.
+
+*Neuroscience inspired Deep Learning.
+
+*one should not view deep learning as an attempt to simulate the brain but instead use linear algebra, probability, information theory, and numerical optimization.
+
+*Connectionism:
+Many intelligent units work together.
+Distributed representation: Many Features, each of different inputs. Eg: Red Card, Red Bird, Green Car, Green Bird. We need two neurons.
+
+*Backpropogation of errors.
+
+*Long short-term memory or LSTM network.
+
+*Deep belief network: Currently considered to be the best.
+
+*Reason why machine learning is popular now instead of then: Today we can provide the algorithms the data they need. Everything is being recorded. Big Data has made it easier for machine learning algorithms to survive.
+
+
