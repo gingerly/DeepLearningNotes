@@ -1,0 +1,9 @@
+*Sort of continuous rather than discrete math.
+
+*Tensors are like multi-dimensional arrays.
+
+*If both x and y are solutions then x = ax + (1-a)y is also a solution for any real a.
+
+*Image columns of A as different directions we can travel from the origin(vector of all zeros) and determine how many ways there are to reach the b.
+Furthermore, x specifies how far we need to travel.
+
