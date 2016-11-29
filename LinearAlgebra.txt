@@ -7,3 +7,23 @@
 *Image columns of A as different directions we can travel from the origin(vector of all zeros) and determine how many ways there are to reach the b.
 Furthermore, x specifies how far we need to travel.
 
+*||x||_inf = max_i(abs(x_i)).
+
+*Forbius Norm: Size of the matrix - ||A||_F = sqrt(sum_i,j(A_i,j ^ 2)).
+
+*Unit Vector ||x||_2 = 1.
+
+* xT*y = 0.  A'*A = A*A' = I => inv(A)  = I.
+
+* Eigen Value Decomposition:
+Av = Lambda.v.  Left Eigen Vector v'*A = Lambda*v'.
+alpha*v has same eigen value as v.
+
+A = V*Lambda*V^-1. V is a set of concatenated eigen vectors. Lambda has the repective eigne values.
+
+Constructing matrices with different eigen values allow us to stretch space in desired directions.
+
+*The matrix is singular if and only if any of the eigenvalues are zero.
+
+*Matrix whose eigen values are positive it's positive definite(x'Ax = 0 ⇒ x = 0.) and when they include zeros they become positive-semidefinite(∀x, x'Ax ≥ 0.).
+
