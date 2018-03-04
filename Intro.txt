@@ -17,8 +17,6 @@ Distributed representation: Many Features, each of different inputs. Eg: Red Car
 
 *Long short-term memory or LSTM network.
 
-*Deep belief network: Currently considered to be the best.
-
 *Reason why machine learning is popular now instead of then: Today we can provide the algorithms the data they need. Everything is being recorded. Big Data has made it easier for machine learning algorithms to survive.
 
 
